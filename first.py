@@ -9,3 +9,5 @@ print("This is the 1st sentence written in 3rd-branch.")
 print('2nd')
 
 print('test git add .')
+
+print("Unwanted sentence in 2nd-branch")
