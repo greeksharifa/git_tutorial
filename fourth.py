@@ -1,5 +1,5 @@
 print('hello')
-
-print(1)
+print('git')
 
 print('bye')
+print('20000')
